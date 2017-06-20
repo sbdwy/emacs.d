@@ -1,0 +1,21 @@
+
+;; ----- smex-history -----
+(
+ eval-buffer
+ info
+ overwrite-mode
+ shell
+ package-list-packages
+ customize-group
+ cd
+)
+
+;; ----- smex-data -----
+(
+ (eval-buffer . 4)
+ (customize-group . 1)
+ (package-list-packages . 1)
+ (shell . 3)
+ (overwrite-mode . 1)
+ (info . 1)
+)
